@@ -206,7 +206,7 @@ a:hover { text-decoration: underline; text-decoration-color: var(--accent-2); }
 /* Grid for expertise / certs */
 .grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
   margin-bottom: 20px;
 }
